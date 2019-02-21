@@ -1,0 +1,25 @@
+{
+  "name": "learncommitizen",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/learncommitizen-.git"
+  },
+  "keywords": [],
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/learncommitizen-/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/learncommitizen-#readme",
+  "devDependencies": {
+    "commitizen": "^3.0.5",
+    "cz-conventional-changelog": "^2.1.0"
+  }
+}
