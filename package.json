@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "git-cz"
   },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wuhaohao1234/learncommitizen-.git"
