@@ -83,4 +83,10 @@ subject：commit 目的的简短描述，不超过50个字符。
 4. 向缓存中提交修改
 git status
 git add .
-git cz(这里会让你选择)
+git cz(这里会让你选择commit的类型,以及一大堆东西)
+git push
+
+## 4、参考链接
+
+[知乎](https://zhuanlan.zhihu.com/p/34223150)
+[阮一峰的commit](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
